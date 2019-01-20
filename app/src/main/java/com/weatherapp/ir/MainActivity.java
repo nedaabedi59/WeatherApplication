@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText edtSearch;
     private ImageView iconWeather;
     private RecyclerView recyclerView;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
